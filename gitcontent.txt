@@ -1,0 +1,45 @@
+modified
+Collabarate
+back up
+analyze 
+
+Version control tools
+git , subversion(svn), cvs, mercurial
+
+only central repository no local copy in SVN, CVS
+
+Repository :data space where all the project files gets saved
+
+central repository and local repository
+
+github : central repository
+
+git : allows to provide local repository
+
+git : version control tool , fetch data , push and pull data from central server
+git is a tool 
+
+git hub: code hosting in remote server
+. social network for developers. share the code. 
+
+
+Creating repositories : git int
+Making changes : status , add, commit
+Parallel development ": branch , merge , rebase
+Syncing repositories: add origin, pull, push
+
+
+git init
+git remote add origin "git hub link of project"  // links local git with remote central repository github project
+
+git pull origin master // pulls all the files from the central repository
+
+
+git commit
+
+git add : median beween central and local 
+
+git status : which changes are made in index
+
+
+
